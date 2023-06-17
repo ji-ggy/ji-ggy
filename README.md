@@ -17,10 +17,11 @@
 - ⚡ Fun fact **I'm a dog lover and sports enthusiast.**
 
 ## Skills and Experience
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <p align="left">Microsoft Excel</p>
-  <p align="left">PowerBI</p>
+<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  
+ 
   
 </p>
 
