@@ -17,23 +17,22 @@
 - ⚡ Fun fact **I'm a dog lover and sports enthusiast.**
 
 ## Skills and Experience
-<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-power-bi-48.png" alt="postgresql" width="40" height="40"/> 
-   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/>  
+<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png"  width="80" height="80"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-power-bi-48.png"  width="80" height="80"/> 
+   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-postgresql-48.png"  width="80" height="80"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png"  width="80" height="80"/>  
 </p>
 
 ## Work Samples
-<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-power-bi-48.png" alt="postgresql" width="40" height="40"/> 
-   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/>  
+<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Screenshot%202023-06-15%20211330.png" width="400" height="200"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Screenshot%202023-06-15%20211330.png" width="400" height="200"/> 
+   
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100082907941879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082907941879" height="30" width="40" /></a>
-<a href="https://discord.gg/mrjegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrjegi" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100082907941879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082907941879" height="60" width="40" /></a>
+<a href="https://discord.gg/mrjegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrjegi" height="60" width="60" /></a>
 </p>
 
 
