@@ -23,6 +23,13 @@
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/>  
 </p>
 
+## Work Samples
+<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-power-bi-48.png" alt="postgresql" width="40" height="40"/> 
+   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> 
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/>  
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100082907941879" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100082907941879" height="30" width="40" /></a>
