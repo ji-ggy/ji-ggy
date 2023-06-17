@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/ji-ggy/ji-ggy/blob/main/%E2%80%94Pngtree%E2%80%94data%20analysis%20banner%20poster_931571.jpg)
+![I am GitHub Readme Generator's creator](https://github.com/ji-ggy/ji-ggy/blob/main/data_analytics_too_much_data.jpg)
 
 <h1 align="center">Hi 👋, I'm Jiggy Romo</h1>
 <h3 align="center">A Highly Enthusiastic Individual Specializing in Data Analysis, Hailing from the Philippines.</h3>
