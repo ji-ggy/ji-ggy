@@ -1,6 +1,4 @@
-![I am GitHub Readme Generator's creator](https://dribbble.com/shots/16584484-Work-flow)
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+![I am GitHub Readme Generator's creator](https://github.com/ji-ggy/ji-ggy/blob/main/%E2%80%94Pngtree%E2%80%94data%20analysis%20banner%20poster_931571.jpg)
 
 <h1 align="center">Hi 👋, I'm Jiggy Romo</h1>
 <h3 align="center">A Highly Enthusiastic Individual Specializing in Data Analysis, Hailing from the Philippines.</h3>
@@ -17,6 +15,14 @@
 - 📫 How to reach me **romojiggy@gmail.com**
 
 - ⚡ Fun fact **I'm a dog lover and sports enthusiast.**
+
+## Skills and Experience
+* Microsoft Excel
+* PowerBI
+* PostgreSQL
+* Python
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
