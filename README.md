@@ -20,14 +20,7 @@
 <p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="postgresql" width="40" height="40"/> 
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-power-bi-48.png" alt="postgresql" width="40" height="40"/> 
    <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-postgresql-48.png" alt="postgresql" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  
- 
-  
-</p>
-
-<p align="left" <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="excel" width="40" height="40"/>
-<img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png" alt="excel" width="40" height="40"/>
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-python-48.png" alt="python" width="40" height="40"/>  
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -36,15 +29,7 @@
 <a href="https://discord.gg/mrjegi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrjegi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <p align="left">Microsoft Excel</p>
-  <p align="left">PowerBI</p>
-  
 
-
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ji-ggy&show_icons=true&locale=en&layout=compact" alt="ji-ggy" /></p>
 
