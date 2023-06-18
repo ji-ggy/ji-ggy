@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Jiggy Romo</h1>
 <h3 align="center">A Highly Enthusiastic Individual Specializing in Data Analysis, Hailing from the Philippines.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="325" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ysndzqc7p8o7rvntwywx6c8ms2qdc54anw5dohwa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-ggy&label=Profile%20views&color=0e75b6&style=flat" alt="ji-ggy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Data Analysis course at Refocus.**
 
@@ -15,6 +15,7 @@
 - 📫 How to reach me **romojiggy@gmail.com**
 
 - ⚡ Fun fact **I'm a dog lover and sports enthusiast.**
+
 
 ## Skills and Experience
 <p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/icons8-excel-48%20(1).png"  width="70" height="70"/> 
