@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jiggy Romo</h1>
 <h3 align="center">A Highly Enthusiastic Individual Specializing in Data Analysis, Hailing from the Philippines.</h3>
 
-<img align="right" alt="Coding" width="325" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ysndzqc7p8o7rvntwywx6c8ms2qdc54anw5dohwa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="310" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47ysndzqc7p8o7rvntwywx6c8ms2qdc54anw5dohwa&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ji-ggy&label=Profile%20views&color=0e75b6&style=flat" alt="ji-ggy" /> </p>
 
