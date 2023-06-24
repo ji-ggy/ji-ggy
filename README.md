@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-jiggyromo.pantheonsite.io/](https://dev-jiggyromo.pantheonsite.io/)
 
-- 📫 How to reach me **romojiggy@gmail.com**
+- 📫 How to reach me email: **romojiggy@gmail.com**  discord: **https://discord.com/channels/@me**
 
 - ⚡ Fun fact **I'm a dog lover and sports enthusiast.**
 
