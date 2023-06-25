@@ -1,5 +1,5 @@
-![I am GitHub Readme Generator's creator](https://github.com/ji-ggy/ji-ggy/blob/main/data_analytics_too_much_data.jpg)
 
+<img src="https://github.com/ji-ggy/ji-ggy/blob/main/linkin_banner.jpg" width="1000" height="380"/>  
 <h1 align="center">Hi 👋, I'm Jiggy Romo</h1>
 <h3 align="center">A Highly Enthusiastic Individual Specializing in Data Analysis, Hailing from the Philippines.</h3>
 
