@@ -26,7 +26,8 @@
 
 ## Work Samples
 <p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/financial%20KPI.png" width="400" height="200"/> 
-  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Screenshot%202023-06-15%20211330.png" width="400" height="200"/>    
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/sales%20management.png" width="400" height="200"/>   
+  <img src="https://github.com/ji-ggy/ji-ggy/blob/main/sales%20management.png" width="400" height="200"/>  
 </p>
 
 <h3 align="left">Connect with me:</h3>
