@@ -25,7 +25,7 @@
 </p>
 
 ## Work Samples
-<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Screenshot%202023-06-15%20211330.png" width="400" height="200"/> 
+<p align="left"> <img src="https://github.com/ji-ggy/ji-ggy/blob/main/financial%20KPI.png" width="400" height="200"/> 
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Screenshot%202023-06-15%20211330.png" width="400" height="200"/>    
 </p>
 
