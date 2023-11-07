@@ -29,7 +29,7 @@
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/sales%20management.png" width="400" height="200"/>   
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/ski%20resort.png" width="400" height="200"/>  
   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Health%20Tracker%20Smartwatch.png" width="400" height="200"/>
-   <img src="https://github.com/ji-ggy/ji-ggy/blob/main/Health%20Tracker%20Smartwatch.png" width="400" height="200"/> 
+   <img src="[https://github.com/ji-ggy/ji-ggy/blob/main/Health%20Tracker%20Smartwatch.png](https://github.com/ji-ggy/Business-Intelligence-with-PowerBI-Adventure-Works/blob/main/Adventure%20Works%20Screenshots/01_Screenshot_overview_page.png)" width="400" height="200"/> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
